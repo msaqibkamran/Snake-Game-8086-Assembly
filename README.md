@@ -29,6 +29,10 @@ The traditional snake game with at least the following functionalities:
 
 1) Download the code to C drive
 2) Install DOSBOX and open it
-3) mount c: c:\assembly_code 
+3) mount c: c:\code folder
+4) c:
+5) nasm snake_game -o snake_game.com
+6) snake_game.com
+7) Enjoy! 
 
 
